@@ -3,11 +3,15 @@ Repository for the data presented in the study: "Extreme Floods and Return Perio
 
 Explanation of the files inside each folder:
 
-
 ----------------------------------------------------------------------------------------------
 00_Discharge
 
 * Files with the annual maximum discharge for the HPP 14 de Julho and the telemetry data
+
+----------------------------------------------------------------------------------------------
+Supplementary_Material.docx
+
+* Textual material with more details about the methods presented in the article. 
 
 ----------------------------------------------------------------------------------------------
 00_Precipitation
