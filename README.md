@@ -38,4 +38,5 @@ Supplementary_Material.docx
 02_Q_Dayly_and_Instantaneous
 
 Constains the data used to estimate the correlation factor between the daily and the instantaneous discharge at the HPP 14 de Julho.
+
 ----------------------------------------------------------------------------------------------
